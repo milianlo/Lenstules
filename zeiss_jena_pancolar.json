@@ -1,0 +1,13 @@
+{
+  "id": "zeiss_jena_pancolar",
+  "name": "Zeiss Jena Pancolar",
+  "description": "Vintage East German glass: swirly bokeh, deep colors, classic pastel rendering.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.13,
+    "saturation": 1.18,
+    "hue": -2,
+    "grain": 0.16,
+    "bokeh": 0.8
+  }
+}
