@@ -1,0 +1,12 @@
+{
+  "id": "rolleiflex_xenotar",
+  "name": "Rolleiflex Xenotar",
+  "description": "Sharp, vibrant color, subtle vintage grain.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.16,
+    "saturation": 1.11,
+    "hue": 3,
+    "grain": 0.11
+  }
+}
