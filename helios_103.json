@@ -1,0 +1,13 @@
+{
+  "id": "helios_103",
+  "name": "Helios 103",
+  "description": "Compact Soviet lens, strong color, swirly bokeh.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.13,
+    "saturation": 1.10,
+    "hue": -2,
+    "grain": 0.14,
+    "bokeh": 0.97
+  }
+}
