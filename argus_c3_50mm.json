@@ -1,0 +1,12 @@
+{
+  "id": "argus_c3_50mm",
+  "name": "Argus C3 50mm",
+  "description": "Retro American rangefinder, punchy color, strong edge contrast.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.14,
+    "saturation": 1.11,
+    "hue": 3,
+    "grain": 0.11
+  }
+}
