@@ -1,0 +1,13 @@
+{
+  "id": "minolta_af_85mm",
+  "name": "Minolta AF 85mm",
+  "description": "Portrait legend, pastel color and beautiful skin tones.",
+  "parameters": {
+    "brightness": 1.09,
+    "contrast": 1.08,
+    "saturation": 1.15,
+    "hue": 6,
+    "grain": 0.08,
+    "bokeh": 0.9
+  }
+}
