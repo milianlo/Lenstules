@@ -1,0 +1,12 @@
+{
+  "id": "minolta_x700_md_50mm",
+  "name": "Minolta X-700 MD 50mm",
+  "description": "Classic SLR combo, gentle color, slight magenta shift.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.12,
+    "saturation": 1.07,
+    "hue": 7,
+    "grain": 0.12
+  }
+}
