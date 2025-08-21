@@ -1,0 +1,12 @@
+{
+  "id": "nikon_micro_55mm",
+  "name": "Nikon Micro 55mm",
+  "description": "Legendary macro detail, color fidelity, gentle bokeh.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.18,
+    "saturation": 1.07,
+    "hue": 1,
+    "grain": 0.08
+  }
+}
