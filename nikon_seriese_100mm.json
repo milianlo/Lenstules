@@ -1,0 +1,12 @@
+{
+  "id": "nikon_seriese_100mm",
+  "name": "Nikon Series E 100mm",
+  "description": "Affordable classic, punchy colors, moderate contrast.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.12,
+    "saturation": 1.10,
+    "hue": 2,
+    "grain": 0.09
+  }
+}
