@@ -1,0 +1,12 @@
+{
+  "id": "olympus_zuiko_50mm",
+  "name": "Olympus Zuiko 50mm",
+  "description": "Sharp, slightly cool rendering, classic OM look.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.16,
+    "saturation": 1.08,
+    "hue": -2,
+    "grain": 0.11
+  }
+}
