@@ -1,0 +1,12 @@
+{
+  "id": "olympus_penf_38mm",
+  "name": "Olympus Pen F 38mm",
+  "description": "Half-frame classic, crisp colors, retro contrast.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.10,
+    "saturation": 1.05,
+    "hue": 3,
+    "grain": 0.12
+  }
+}
