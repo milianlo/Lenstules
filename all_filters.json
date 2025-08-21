@@ -1,0 +1,1698 @@
+{
+  "filters": [
+    {
+      "id": "zeiss_planar_50mm",
+      "name": "Zeiss Planar 50mm",
+      "description": "Neutral colors, crisp micro-contrast, smooth bokeh inspired by Zeiss Planar 50mm.",
+      "parameters": {
+        "brightness": 1.04,
+        "contrast": 1.18,
+        "saturation": 1.09,
+        "hue": 0,
+        "grain": 0.10,
+        "bokeh": 0.85
+      }
+    },
+    {
+      "id": "zeiss_sonnar_85mm",
+      "name": "Zeiss Sonnar 85mm",
+      "description": "Warm rendering, strong subject isolation, classic Zeiss pop.",
+      "parameters": {
+        "brightness": 1.08,
+        "contrast": 1.12,
+        "saturation": 1.11,
+        "hue": 6,
+        "grain": 0.13,
+        "bokeh": 0.93
+      }
+    },
+    {
+      "id": "zeiss_biogon_35mm",
+      "name": "Zeiss Biogon 35mm",
+      "description": "Wide angle with high resolution, vibrant colors and sharp corners.",
+      "parameters": {
+        "brightness": 1.03,
+        "contrast": 1.14,
+        "saturation": 1.15,
+        "hue": 2,
+        "grain": 0.11
+      }
+    },
+    {
+      "id": "zeiss_distagon_28mm",
+      "name": "Zeiss Distagon 28mm",
+      "description": "Punchy colors, great edge sharpness, famous Zeiss clarity.",
+      "parameters": {
+        "brightness": 1.04,
+        "contrast": 1.17,
+        "saturation": 1.13,
+        "hue": 5,
+        "grain": 0.12
+      }
+    },
+    {
+      "id": "zeiss_tessar_40mm",
+      "name": "Zeiss Tessar 40mm",
+      "description": "Classic Tessar rendering: moderate contrast, gentle colors, subtle grain.",
+      "parameters": {
+        "brightness": 1.01,
+        "contrast": 1.10,
+        "saturation": 1.08,
+        "hue": 2,
+        "grain": 0.12
+      }
+    },
+    {
+      "id": "zeiss_otus_55mm",
+      "name": "Zeiss Otus 55mm",
+      "description": "Modern Zeiss Otus look: ultra-sharp, natural colors, low distortion.",
+      "parameters": {
+        "brightness": 1.05,
+        "contrast": 1.22,
+        "saturation": 1.08,
+        "hue": 0,
+        "grain": 0.08
+      }
+    },
+    {
+      "id": "zeiss_jena_pancolar",
+      "name": "Zeiss Jena Pancolar",
+      "description": "Vintage East German glass: swirly bokeh, deep colors, classic pastel rendering.",
+      "parameters": {
+        "brightness": 1.07,
+        "contrast": 1.10,
+        "saturation": 1.05,
+        "hue": 4,
+        "grain": 0.16,
+        "bokeh": 0.9
+      }
+    },
+    {
+      "id": "zeiss_ikon_contax_50mm",
+      "name": "Zeiss Ikon Contax 50mm",
+      "description": "Classic Contax rangefinder, punchy colors, neutral rendering.",
+      "parameters": {
+        "brightness": 1.02,
+        "contrast": 1.15,
+        "saturation": 1.09,
+        "hue": 3,
+        "grain": 0.10
+      }
+    },
+    {
+      "id": "zeiss_batis_25mm",
+      "name": "Zeiss Batis 25mm",
+      "description": "Modern Zeiss, crisp colors, punchy contrast.",
+      "parameters": {
+        "brightness": 1.02,
+        "contrast": 1.17,
+        "saturation": 1.13,
+        "hue": 3,
+        "grain": 0.09
+      }
+    },
+    {
+      "id": "zeiss_jena_tessar_50mm",
+      "name": "Zeiss Jena Tessar 50mm",
+      "description": "East German classic, gentle contrast, pastel colors.",
+      "parameters": {
+        "brightness": 1.04,
+        "contrast": 1.09,
+        "saturation": 1.07,
+        "hue": 5,
+        "grain": 0.13
+      }
+    },
+    {
+      "id": "hasselblad_80mm_cf",
+      "name": "Hasselblad 80mm CF",
+      "description": "Medium format classic: creamy bokeh, rich midtones, studio portrait legend.",
+      "parameters": {
+        "brightness": 1.06,
+        "contrast": 1.09,
+        "saturation": 1.12,
+        "hue": 5,
+        "grain": 0.11,
+        "bokeh": 0.88
+      }
+    },
+    {
+      "id": "hasselblad_50mm_fle",
+      "name": "Hasselblad 50mm FLE",
+      "description": "Wide format, subtle color shift, great edge performance.",
+      "parameters": {
+        "brightness": 1.02,
+        "contrast": 1.12,
+        "saturation": 1.09,
+        "hue": 2,
+        "grain": 0.13
+      }
+    },
+    {
+      "id": "hasselblad_150mm_sonnar",
+      "name": "Hasselblad 150mm Sonnar",
+      "description": "Telephoto portrait king: smooth skin tones, gentle background blur.",
+      "parameters": {
+        "brightness": 1.05,
+        "contrast": 1.07,
+        "saturation": 1.10,
+        "hue": 6,
+        "grain": 0.09,
+        "bokeh": 0.92
+      }
+    },
+    {
+      "id": "hasselblad_xpan",
+      "name": "Hasselblad XPan",
+      "description": "Panoramic legend: cool tones, cinematic aspect ratio, razor sharp.",
+      "parameters": {
+        "brightness": 1.01,
+        "contrast": 1.14,
+        "saturation": 1.13,
+        "hue": -3,
+        "grain": 0.10
+      }
+    },
+    {
+      "id": "hasselblad_swc",
+      "name": "Hasselblad SWC",
+      "description": "Super wide classic: vibrant colors, strong edge contrast.",
+      "parameters": {
+        "brightness": 1.03,
+        "contrast": 1.16,
+        "saturation": 1.14,
+        "hue": 3,
+        "grain": 0.11
+      }
+    },
+    {
+      "id": "hasselblad_500cm_planar",
+      "name": "Hasselblad 500CM Planar",
+      "description": "Studio legend, creamy bokeh, rich midtones, gentle pastel colors.",
+      "parameters": {
+        "brightness": 1.05,
+        "contrast": 1.08,
+        "saturation": 1.09,
+        "hue": 4,
+        "grain": 0.10,
+        "bokeh": 0.85
+      }
+    },
+    {
+      "id": "hasselblad_160mm_f2_8",
+      "name": "Hasselblad 160mm f2.8",
+      "description": "Medium format telephoto, creamy midtones, gentle vignette.",
+      "parameters": {
+        "brightness": 1.06,
+        "contrast": 1.12,
+        "saturation": 1.09,
+        "hue": 5,
+        "grain": 0.11,
+        "vignette": 0.3,
+        "bokeh": 0.9
+      }
+    },
+    {
+      "id": "hasselblad_250mm_sonnar",
+      "name": "Hasselblad 250mm Sonnar",
+      "description": "Medium format telephoto, dreamy backgrounds, gentle grain.",
+      "parameters": {
+        "brightness": 1.06,
+        "contrast": 1.11,
+        "saturation": 1.09,
+        "hue": 5,
+        "grain": 0.12,
+        "bokeh": 0.88
+      }
+    },
+    {
+      "id": "leica_summicron_50mm",
+      "name": "Leica Summicron 50mm",
+      "description": "Legendary Leica glass: smooth transitions, neutral colors, natural rendering.",
+      "parameters": {
+        "brightness": 1.03,
+        "contrast": 1.11,
+        "saturation": 1.10,
+        "hue": 1,
+        "grain": 0.10,
+        "bokeh": 0.9
+      }
+    },
+    {
+      "id": "leica_noctilux_50mm",
+      "name": "Leica Noctilux 50mm",
+      "description": "Dreamy wide-open bokeh, magical glow, Leica color.",
+      "parameters": {
+        "brightness": 1.07,
+        "contrast": 1.08,
+        "saturation": 1.14,
+        "hue": 5,
+        "grain": 0.12,
+        "bokeh": 0.97,
+        "glow": 0.5
+      }
+    },
+    {
+      "id": "leica_summilux_35mm",
+      "name": "Leica Summilux 35mm",
+      "description": "Classic Leica street lens: subtle warmth, gentle pastel colors, crisp detail.",
+      "parameters": {
+        "brightness": 1.02,
+        "contrast": 1.14,
+        "saturation": 1.13,
+        "hue": 3,
+        "grain": 0.11
+      }
+    },
+    {
+      "id": "leica_elmarit_28mm",
+      "name": "Leica Elmarit 28mm",
+      "description": "Wide angle documentary: cool rendering, high clarity, classic Leica edge.",
+      "parameters": {
+        "brightness": 1.00,
+        "contrast": 1.16,
+        "saturation": 1.08,
+        "hue": -2,
+        "grain": 0.09
+      }
+    },
+    {
+      "id": "leica_apo_telyt_135mm",
+      "name": "Leica APO-Telyt 135mm",
+      "description": "Telephoto precision: ultra-sharp detail, low distortion, creamy backgrounds.",
+      "parameters": {
+        "brightness": 1.05,
+        "contrast": 1.12,
+        "saturation": 1.11,
+        "hue": 4,
+        "grain": 0.10,
+        "bokeh": 0.93
+      }
+    },
+    {
+      "id": "leica_thambar_90mm",
+      "name": "Leica Thambar 90mm",
+      "description": "Legendary soft focus: dreamy glow and romantic haze.",
+      "parameters": {
+        "brightness": 1.08,
+        "contrast": 0.91,
+        "saturation": 1.03,
+        "hue": 7,
+        "grain": 0.15,
+        "glow": 0.7,
+        "bokeh": 0.75
+      }
+    },
+    {
+      "id": "leica_m3_summicron",
+      "name": "Leica M3 Summicron",
+      "description": "Historic Leica M3, balanced color, smooth transitions, moderate grain.",
+      "parameters": {
+        "brightness": 1.03,
+        "contrast": 1.09,
+        "saturation": 1.10,
+        "hue": 2,
+        "grain": 0.12
+      }
+    },
+    {
+      "id": "leitz_elmar_90mm",
+      "name": "Leitz Elmar 90mm",
+      "description": "Vintage Leica telephoto, subtle glow, dramatic background separation.",
+      "parameters": {
+        "brightness": 1.05,
+        "contrast": 1.09,
+        "saturation": 1.08,
+        "hue": 4,
+        "grain": 0.13,
+        "bokeh": 0.91,
+        "glow": 0.3
+      }
+    },
+    {
+      "id": "leica_r_summilux_80mm",
+      "name": "Leica R Summilux 80mm",
+      "description": "Legendary Leica R lens, soft glow, rich skin tones, gentle background blur.",
+      "parameters": {
+        "brightness": 1.04,
+        "contrast": 1.07,
+        "saturation": 1.11,
+        "hue": 6,
+        "grain": 0.09,
+        "glow": 0.4,
+        "bokeh": 0.95
+      }
+    },
+    {
+      "id": "leica_elmarit_r_135mm",
+      "name": "Leica Elmarit-R 135mm",
+      "description": "Vintage Leica telephoto, natural skin tones, smooth transitions.",
+      "parameters": {
+        "brightness": 1.06,
+        "contrast": 1.11,
+        "saturation": 1.08,
+        "hue": 2,
+        "grain": 0.10,
+        "bokeh": 0.9
+      }
+    }
+    [
+  {
+    "id": "nikon_50mm_f1_2_ai",
+    "name": "Nikon 50mm f1.2 AI",
+    "description": "Classic Nikon fast prime, strong contrast, warm tones, dramatic bokeh.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.16,
+      "saturation": 1.12,
+      "hue": 5,
+      "grain": 0.14,
+      "bokeh": 0.95
+    }
+  },
+  {
+    "id": "nikon_105mm_dc",
+    "name": "Nikon 105mm DC",
+    "description": "Defocus control, creamy portraits, subtle glow, smooth backgrounds.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.09,
+      "saturation": 1.08,
+      "hue": 3,
+      "grain": 0.13,
+      "glow": 0.4,
+      "bokeh": 0.92
+    }
+  },
+  {
+    "id": "nikon_135mm_f2_ai_s",
+    "name": "Nikon 135mm f2 AI-S",
+    "description": "Telephoto classic, punchy colors, strong separation, vibrant backgrounds.",
+    "parameters": {
+      "brightness": 1.08,
+      "contrast": 1.15,
+      "saturation": 1.10,
+      "hue": 6,
+      "grain": 0.10,
+      "bokeh": 0.94
+    }
+  },
+  {
+    "id": "nikon_35mm_f1_4_ai",
+    "name": "Nikon 35mm f1.4 AI",
+    "description": "Vintage Nikon wide, gentle vignette, pastel colors, moderate grain.",
+    "parameters": {
+      "brightness": 1.01,
+      "contrast": 1.10,
+      "saturation": 1.06,
+      "hue": 2,
+      "grain": 0.13,
+      "vignette": 0.2
+    }
+  },
+  {
+    "id": "nikon_28mm_f2_8_ai_s",
+    "name": "Nikon 28mm f2.8 AI-S",
+    "description": "Classic landscape lens, crisp edges, natural rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.13,
+      "saturation": 1.09,
+      "hue": 1,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "canon_fd_50mm_f1_4",
+    "name": "Canon FD 50mm f1.4",
+    "description": "Vintage Canon, warm rendering, gentle glow, creamy backgrounds.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.09,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.12,
+      "glow": 0.3,
+      "bokeh": 0.91
+    }
+  },
+  {
+    "id": "canon_fd_85mm_f1_2",
+    "name": "Canon FD 85mm f1.2",
+    "description": "Classic portrait lens, magical bokeh, soft glow, vibrant skin tones.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.08,
+      "saturation": 1.12,
+      "hue": 5,
+      "grain": 0.13,
+      "glow": 0.45,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "canon_fd_35mm_f2",
+    "name": "Canon FD 35mm f2",
+    "description": "Vintage wide, punchy colors, high contrast, subtle vignetting.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.11,
+      "vignette": 0.15
+    }
+  },
+  {
+    "id": "canon_ef_135mm_f2",
+    "name": "Canon EF 135mm f2",
+    "description": "Modern classic, crisp portraits, strong separation, rich colors.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.14,
+      "saturation": 1.12,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.94
+    }
+  },
+  {
+    "id": "canon_ef_85mm_f1_2",
+    "name": "Canon EF 85mm f1.2",
+    "description": "Legendary bokeh, smooth backgrounds, gentle transitions, vibrant skin tones.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.10,
+      "saturation": 1.13,
+      "hue": 5,
+      "grain": 0.10,
+      "bokeh": 0.98
+    }
+  },
+  {
+    "id": "canon_ef_50mm_f1_0",
+    "name": "Canon EF 50mm f1.0",
+    "description": "Ultra-fast lens, extreme bokeh, strong glow, dreamy rendering.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.06,
+      "saturation": 1.11,
+      "hue": 4,
+      "grain": 0.14,
+      "glow": 0.55,
+      "bokeh": 1.0
+    }
+  },
+  {
+    "id": "canon_ef_24mm_f1_4",
+    "name": "Canon EF 24mm f1.4",
+    "description": "Wide angle, vibrant colors, crisp edges, gentle vignette.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.15,
+      "hue": 2,
+      "grain": 0.10,
+      "vignette": 0.16
+    }
+  },
+  {
+    "id": "canon_ef_200mm_f2",
+    "name": "Canon EF 200mm f2",
+    "description": "Telephoto, creamy backgrounds, strong subject isolation, rich colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.12,
+      "saturation": 1.09,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.95
+    }
+  },
+  {
+    "id": "pentax_super_takumar_50mm_f1_4",
+    "name": "Pentax Super Takumar 50mm f1.4",
+    "description": "Legendary vintage lens, warm colors, gentle bokeh, soft transitions.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.11,
+      "saturation": 1.09,
+      "hue": 6,
+      "grain": 0.13,
+      "bokeh": 0.9
+    }
+  },
+  {
+    "id": "pentax_k_55mm_f1_8",
+    "name": "Pentax K 55mm f1.8",
+    "description": "Classic Pentax, soft rendering, gentle colors, moderate grain.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.09,
+      "saturation": 1.08,
+      "hue": 4,
+      "grain": 0.12
+    }
+  },
+  {
+    "id": "pentax_85mm_f1_8",
+    "name": "Pentax 85mm f1.8",
+    "description": "Vintage portrait lens, creamy backgrounds, pastel tones.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.10,
+      "saturation": 1.07,
+      "hue": 3,
+      "grain": 0.11,
+      "bokeh": 0.92
+    }
+  },
+  {
+    "id": "pentax_m_28mm_f2_8",
+    "name": "Pentax-M 28mm f2.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.14,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "pentax_m_135mm_f3_5",
+    "name": "Pentax-M 135mm f3.5",
+    "description": "Telephoto, smooth backgrounds, gentle color shift.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.09,
+      "saturation": 1.10,
+      "hue": 4,
+      "grain": 0.13,
+      "bokeh": 0.88
+    }
+  },
+  {
+    "id": "olympus_zuiko_50mm_f1_8",
+    "name": "Olympus Zuiko 50mm f1.8",
+    "description": "Vintage Olympus, neutral colors, gentle transitions, moderate grain.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.10,
+      "saturation": 1.07,
+      "hue": 2,
+      "grain": 0.12
+    }
+  },
+  {
+    "id": "olympus_zuiko_90mm_f2_macro",
+    "name": "Olympus Zuiko 90mm f2 Macro",
+    "description": "Legendary macro, crisp detail, natural colors, gentle background blur.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.13,
+      "saturation": 1.12,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.88
+    }
+  },
+  {
+    "id": "olympus_zuiko_24mm_f2_8",
+    "name": "Olympus Zuiko 24mm f2.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "minolta_rokkor_58mm_f1_2",
+    "name": "Minolta Rokkor 58mm f1.2",
+    "description": "Vintage Minolta, dreamy rendering, strong glow, smooth bokeh.",
+    "parameters": {
+      "brightness": 1.08,
+      "contrast": 1.06,
+      "saturation": 1.09,
+      "hue": 6,
+      "grain": 0.14,
+      "glow": 0.5,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "minolta_rokkor_85mm_f1_7",
+    "name": "Minolta Rokkor 85mm f1.7",
+    "description": "Classic portrait lens, smooth transitions, gentle colors.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.11,
+      "saturation": 1.12,
+      "hue": 5,
+      "grain": 0.11,
+      "bokeh": 0.91
+    }
+  },
+  {
+    "id": "minolta_rokkor_35mm_f1_8",
+    "name": "Minolta Rokkor 35mm f1.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.10,
+      "hue": 3,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "minolta_rokkor_135mm_f2_8",
+    "name": "Minolta Rokkor 135mm f2.8",
+    "description": "Telephoto, smooth backgrounds, gentle color shift.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.09,
+      "saturation": 1.08,
+      "hue": 4,
+      "grain": 0.12,
+      "bokeh": 0.89
+    }
+  },
+  {
+    "id": "fujinon_56mm_f1_2",
+    "name": "Fujinon 56mm f1.2",
+    "description": "Modern Fuji, vibrant colors, crisp detail, creamy bokeh.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.14,
+      "saturation": 1.15,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.96
+    }
+  },
+  {
+    "id": "fujinon_23mm_f1_4",
+    "name": "Fujinon 23mm f1.4",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "fujinon_90mm_f2",
+    "name": "Fujinon 90mm f2",
+    "description": "Telephoto, smooth backgrounds, vibrant colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.11,
+      "saturation": 1.13,
+      "hue": 5,
+      "grain": 0.09,
+      "bokeh": 0.93
+    }
+  },
+  {
+    "id": "fujinon_35mm_f1_4",
+    "name": "Fujinon 35mm f1.4",
+    "description": "Classic Fuji, gentle transitions, vibrant colors.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.12,
+      "saturation": 1.11,
+      "hue": 3,
+      "grain": 0.11
+    }
+  },
+  {
+    "id": "fujinon_50mm_f2",
+    "name": "Fujinon 50mm f2",
+    "description": "Modern Fuji, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.13,
+      "saturation": 1.10,
+      "hue": 2,
+      "grain": 0.10
+    }
+  }
+  {
+    "id": "sony_zeiss_55mm_f1_8",
+    "name": "Sony Zeiss 55mm f1.8",
+    "description": "Modern Sony, crisp detail, neutral colors, smooth transitions.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.15,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.09,
+      "bokeh": 0.93
+    }
+  },
+  {
+    "id": "sony_gm_85mm_f1_4",
+    "name": "Sony GM 85mm f1.4",
+    "description": "Portrait specialist, creamy bokeh, vibrant colors, sharp detail.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.13,
+      "saturation": 1.15,
+      "hue": 4,
+      "grain": 0.08,
+      "bokeh": 0.98
+    }
+  },
+  {
+    "id": "sony_g_24mm_f1_4",
+    "name": "Sony G 24mm f1.4",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "sony_gm_135mm_f1_8",
+    "name": "Sony GM 135mm f1.8",
+    "description": "Telephoto, vibrant colors, strong separation, creamy backgrounds.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.15,
+      "saturation": 1.13,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "sigma_art_35mm_f1_4",
+    "name": "Sigma Art 35mm f1.4",
+    "description": "Punchy colors, crisp detail, modern look.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.16,
+      "saturation": 1.12,
+      "hue": 3,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "sigma_art_50mm_f1_4",
+    "name": "Sigma Art 50mm f1.4",
+    "description": "Modern Sigma, neutral colors, strong micro-contrast.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.18,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "sigma_art_85mm_f1_4",
+    "name": "Sigma Art 85mm f1.4",
+    "description": "Portrait lens, creamy bokeh, vibrant colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.95
+    }
+  },
+  {
+    "id": "sigma_art_105mm_f1_4",
+    "name": "Sigma Art 105mm f1.4",
+    "description": "Bokeh master, crisp details, strong separation.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.16,
+      "saturation": 1.12,
+      "hue": 5,
+      "grain": 0.08,
+      "bokeh": 1.0
+    }
+  },
+  {
+    "id": "helios_44_2_58mm_f2",
+    "name": "Helios 44-2 58mm f2",
+    "description": "Famous swirly bokeh, vintage glow, deep colors.",
+    "parameters": {
+      "brightness": 1.08,
+      "contrast": 1.09,
+      "saturation": 1.10,
+      "hue": 4,
+      "grain": 0.13,
+      "bokeh": 0.99,
+      "glow": 0.5
+    }
+  },
+  {
+    "id": "industar_50_50mm_f3_5",
+    "name": "Industar 50 50mm f3.5",
+    "description": "Tiny Russian lens, gentle rendering, pastel colors.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.08,
+      "saturation": 1.07,
+      "hue": 2,
+      "grain": 0.14
+    }
+  },
+  {
+    "id": "jupiter_9_85mm_f2",
+    "name": "Jupiter-9 85mm f2",
+    "description": "Classic Soviet portrait lens, dreamy backgrounds, gentle transitions.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.10,
+      "saturation": 1.09,
+      "hue": 3,
+      "grain": 0.12,
+      "bokeh": 0.93
+    }
+  },
+  {
+    "id": "jupiter_3_50mm_f1_5",
+    "name": "Jupiter-3 50mm f1.5",
+    "description": "Classic Soviet fast lens, strong glow, pastel colors.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.07,
+      "saturation": 1.11,
+      "hue": 5,
+      "grain": 0.13,
+      "glow": 0.4,
+      "bokeh": 0.92
+    }
+  },
+  {
+    "id": "meyer_optik_trioplan_100mm_f2_8",
+    "name": "Meyer Optik Trioplan 100mm f2.8",
+    "description": "Soap bubble bokeh, vintage glow, gentle colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.08,
+      "saturation": 1.09,
+      "hue": 6,
+      "grain": 0.15,
+      "bokeh": 0.98,
+      "glow": 0.6
+    }
+  },
+  {
+    "id": "meyer_optik_primoplan_58mm_f1_9",
+    "name": "Meyer Optik Primoplan 58mm f1.9",
+    "description": "Vintage German lens, swirly bokeh, soft transitions.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.09,
+      "saturation": 1.08,
+      "hue": 4,
+      "grain": 0.13,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "voigtlander_nokton_40mm_f1_2",
+    "name": "Voigtlander Nokton 40mm f1.2",
+    "description": "Modern fast lens, punchy colors, high contrast, strong vignette.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.18,
+      "saturation": 1.14,
+      "hue": 2,
+      "grain": 0.10,
+      "vignette": 0.20
+    }
+  },
+  {
+    "id": "voigtlander_ultron_35mm_f1_7",
+    "name": "Voigtlander Ultron 35mm f1.7",
+    "description": "Wide angle, crisp detail, vibrant colors.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.15,
+      "saturation": 1.12,
+      "hue": 3,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "voigtlander_apo_lanthar_90mm_f3_5",
+    "name": "Voigtlander APO-Lanthar 90mm f3.5",
+    "description": "Telephoto, neutral colors, crisp rendering, gentle backgrounds.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.14,
+      "saturation": 1.10,
+      "hue": 2,
+      "grain": 0.09,
+      "bokeh": 0.89
+    }
+  },
+  {
+    "id": "voigtlander_septon_50mm_f2",
+    "name": "Voigtlander Septon 50mm f2",
+    "description": "Vintage Voigtlander, warm tones, gentle glow.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.11,
+      "saturation": 1.09,
+      "hue": 5,
+      "grain": 0.13,
+      "glow": 0.3
+    }
+  },
+  {
+    "id": "voigtlander_color_skopar_21mm_f4",
+    "name": "Voigtlander Color Skopar 21mm f4",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "contax_g_sonnar_90mm_f2_8",
+    "name": "Contax G Sonnar 90mm f2.8",
+    "description": "Classic Contax, creamy bokeh, crisp details.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.94
+    }
+  },
+  {
+    "id": "contax_g_planar_45mm_f2",
+    "name": "Contax G Planar 45mm f2",
+    "description": "Legendary micro-contrast, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.18,
+      "saturation": 1.15,
+      "hue": 2,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "contax_g_biogon_28mm_f2_8",
+    "name": "Contax G Biogon 28mm f2.8",
+    "description": "Wide angle, vibrant colors, sharp corners, classic Contax look.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.16,
+      "saturation": 1.14,
+      "hue": 3,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "contax_g_21mm_f2_8",
+    "name": "Contax G 21mm f2.8",
+    "description": "Ultra-wide, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.13,
+      "hue": 2,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "mamiya_80mm_f1_9",
+    "name": "Mamiya 80mm f1.9",
+    "description": "Medium format, creamy backgrounds, punchy colors.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.12,
+      "saturation": 1.13,
+      "hue": 5,
+      "grain": 0.09,
+      "bokeh": 0.95
+    }
+  },
+  {
+    "id": "mamiya_sekor_55mm_f1_4",
+    "name": "Mamiya-Sekor 55mm f1.4",
+    "description": "Vintage Mamiya, warm colors, smooth transitions.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.11,
+      "saturation": 1.10,
+      "hue": 4,
+      "grain": 0.13
+    }
+  },
+  {
+    "id": "mamiya_150mm_f3_5",
+    "name": "Mamiya 150mm f3.5",
+    "description": "Medium format telephoto, creamy backgrounds, crisp rendering.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.14,
+      "saturation": 1.12,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.92
+    }
+  },
+  {
+    "id": "mamiya_sekor_35mm_f2_8",
+    "name": "Mamiya-Sekor 35mm f2.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "rollei_planar_80mm_f2_8",
+    "name": "Rollei Planar 80mm f2.8",
+    "description": "Medium format, creamy bokeh, rich midtones.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.13,
+      "saturation": 1.12,
+      "hue": 4,
+      "grain": 0.08,
+      "bokeh": 0.93
+    }
+  },
+  {
+    "id": "rollei_sonnar_150mm_f4",
+    "name": "Rollei Sonnar 150mm f4",
+    "description": "Telephoto, smooth backgrounds, gentle transitions.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.11,
+      "saturation": 1.10,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.89
+    }
+  }
+  {
+    "id": "rollei_distagon_50mm_f4",
+    "name": "Rollei Distagon 50mm f4",
+    "description": "Wide angle medium format, punchy colors, crisp details.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.15,
+      "saturation": 1.13,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "rollei_tele_tessar_180mm_f4",
+    "name": "Rollei Tele-Tessar 180mm f4",
+    "description": "Long telephoto, creamy backgrounds, soft transitions.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.12,
+      "saturation": 1.10,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.91
+    }
+  },
+  {
+    "id": "schneider_kreuznach_xenon_50mm_f1_9",
+    "name": "Schneider Kreuznach Xenon 50mm f1.9",
+    "description": "Vintage German lens, warm colors, gentle bokeh.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.13,
+      "saturation": 1.09,
+      "hue": 4,
+      "grain": 0.12,
+      "bokeh": 0.89
+    }
+  },
+  {
+    "id": "schneider_kreuznach_tele_xenar_135mm_f3_5",
+    "name": "Schneider Kreuznach Tele-Xenar 135mm f3.5",
+    "description": "Telephoto, subtle glow, gentle backgrounds.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.11,
+      "saturation": 1.08,
+      "hue": 5,
+      "grain": 0.12,
+      "glow": 0.15,
+      "bokeh": 0.87
+    }
+  },
+  {
+    "id": "schneider_kreuznach_primagon_35mm_f4_5",
+    "name": "Schneider Kreuznach Primagon 35mm f4.5",
+    "description": "Wide angle, vintage rendering, pastel colors.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.09,
+      "saturation": 1.07,
+      "hue": 2,
+      "grain": 0.13
+    }
+  },
+  {
+    "id": "zenit_mc_helios_40_85mm_f1_5",
+    "name": "Zenit MC Helios 40 85mm f1.5",
+    "description": "Russian bokeh monster, swirly backgrounds, strong glow.",
+    "parameters": {
+      "brightness": 1.08,
+      "contrast": 1.07,
+      "saturation": 1.10,
+      "hue": 5,
+      "grain": 0.14,
+      "bokeh": 0.99,
+      "glow": 0.7
+    }
+  },
+  {
+    "id": "zenit_industar_61_50mm_f2_8",
+    "name": "Zenit Industar 61 50mm f2.8",
+    "description": "Vintage Russian, gentle colors, moderate grain.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.08,
+      "saturation": 1.06,
+      "hue": 3,
+      "grain": 0.13
+    }
+  },
+  {
+    "id": "zenit_mir_1_37mm_f2_8",
+    "name": "Zenit Mir-1 37mm f2.8",
+    "description": "Wide angle, vintage glow, punchy colors.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.13,
+      "saturation": 1.08,
+      "hue": 2,
+      "grain": 0.11,
+      "glow": 0.2
+    }
+  },
+  {
+    "id": "zenit_jupiter_11_135mm_f4",
+    "name": "Zenit Jupiter-11 135mm f4",
+    "description": "Telephoto, gentle backgrounds, subtle glow.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.10,
+      "saturation": 1.08,
+      "hue": 4,
+      "grain": 0.12,
+      "glow": 0.1,
+      "bokeh": 0.86
+    }
+  },
+  {
+    "id": "tokina_atx_pro_100mm_f2_8_macro",
+    "name": "Tokina ATX Pro 100mm f2.8 Macro",
+    "description": "Macro lens, crisp detail, neutral colors.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.09,
+      "bokeh": 0.87
+    }
+  },
+  {
+    "id": "tokina_atx_11_16mm_f2_8",
+    "name": "Tokina ATX 11-16mm f2.8",
+    "description": "Ultra-wide, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 3,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "tamron_sp_90mm_f2_8_macro",
+    "name": "Tamron SP 90mm f2.8 Macro",
+    "description": "Macro specialist, creamy backgrounds, strong contrast.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.15,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.08,
+      "bokeh": 0.93
+    }
+  },
+  {
+    "id": "tamron_sp_35mm_f1_8",
+    "name": "Tamron SP 35mm f1.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.16,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "tamron_sp_150_600mm_f5_6_3",
+    "name": "Tamron SP 150-600mm f5-6.3",
+    "description": "Super telephoto, creamy backgrounds, vibrant colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.13,
+      "saturation": 1.15,
+      "hue": 5,
+      "grain": 0.09,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "yashica_ml_50mm_f1_4",
+    "name": "Yashica ML 50mm f1.4",
+    "description": "Vintage Yashica, soft rendering, gentle transitions.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.10,
+      "saturation": 1.08,
+      "hue": 2,
+      "grain": 0.11
+    }
+  },
+  {
+    "id": "yashica_ml_135mm_f2_8",
+    "name": "Yashica ML 135mm f2.8",
+    "description": "Telephoto, creamy backgrounds, pastel colors.",
+    "parameters": {
+      "brightness": 1.05,
+      "contrast": 1.09,
+      "saturation": 1.10,
+      "hue": 4,
+      "grain": 0.10,
+      "bokeh": 0.85
+    }
+  },
+  {
+    "id": "yashica_ml_28mm_f2_8",
+    "name": "Yashica ML 28mm f2.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "yashica_ml_24mm_f2_8",
+    "name": "Yashica ML 24mm f2.8",
+    "description": "Ultra-wide, vibrant colors, crisp detail.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "cosina_voigtlander_58mm_f1_4",
+    "name": "Cosina Voigtlander 58mm f1.4",
+    "description": "Modern Voigtlander, punchy colors, strong bokeh.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "cosina_voigtlander_40mm_f2",
+    "name": "Cosina Voigtlander 40mm f2",
+    "description": "Compact, vibrant colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "cosina_voigtlander_75mm_f1_8",
+    "name": "Cosina Voigtlander 75mm f1_8",
+    "description": "Portrait lens, creamy backgrounds, gentle transitions.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.14,
+      "saturation": 1.11,
+      "hue": 3,
+      "grain": 0.09,
+      "bokeh": 0.92
+    }
+  },
+  {
+    "id": "cosina_voigtlander_21mm_f4",
+    "name": "Cosina Voigtlander 21mm f4",
+    "description": "Ultra-wide, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "cosina_voigtlander_35mm_f1_2",
+    "name": "Cosina Voigtlander 35mm f1.2",
+    "description": "Wide angle, punchy colors, strong vignette.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.17,
+      "saturation": 1.15,
+      "hue": 3,
+      "grain": 0.10,
+      "vignette": 0.19
+    }
+  }
+  {
+    "id": "cosina_voigtlander_15mm_f4_5",
+    "name": "Cosina Voigtlander 15mm f4.5",
+    "description": "Ultra-wide, punchy colors, crisp rendering, strong vignette.",
+    "parameters": {
+      "brightness": 1.01,
+      "contrast": 1.16,
+      "saturation": 1.14,
+      "hue": 2,
+      "grain": 0.09,
+      "vignette": 0.25
+    }
+  },
+  {
+    "id": "panasonic_leica_42_5mm_f1_2",
+    "name": "Panasonic Leica 42.5mm f1.2",
+    "description": "Modern Leica for MFT, creamy bokeh, vibrant colors.",
+    "parameters": {
+      "brightness": 1.08,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 5,
+      "grain": 0.08,
+      "bokeh": 0.98
+    }
+  },
+  {
+    "id": "panasonic_leica_15mm_f1_7",
+    "name": "Panasonic Leica 15mm f1.7",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "olympus_mzuiko_45mm_f1_8",
+    "name": "Olympus M.Zuiko 45mm f1.8",
+    "description": "Portrait specialist for MFT, creamy bokeh, vibrant skin tones.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.14,
+      "saturation": 1.15,
+      "hue": 4,
+      "grain": 0.08,
+      "bokeh": 0.96
+    }
+  },
+  {
+    "id": "olympus_mzuiko_17mm_f1_8",
+    "name": "Olympus M.Zuiko 17mm f1.8",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.13,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "olympus_mzuiko_75mm_f1_8",
+    "name": "Olympus M.Zuiko 75mm f1.8",
+    "description": "Telephoto, creamy backgrounds, vibrant colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.11,
+      "saturation": 1.13,
+      "hue": 5,
+      "grain": 0.09,
+      "bokeh": 0.93
+    }
+  },
+  {
+    "id": "fujinon_xf_16mm_f1_4",
+    "name": "Fujinon XF 16mm f1.4",
+    "description": "Ultra-wide, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.13,
+      "saturation": 1.15,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "fujinon_xf_80mm_f2_8_macro",
+    "name": "Fujinon XF 80mm f2.8 Macro",
+    "description": "Macro specialist, crisp detail, creamy backgrounds.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.95
+    }
+  },
+  {
+    "id": "canon_rf_50mm_f1_2",
+    "name": "Canon RF 50mm f1.2",
+    "description": "Modern Canon, vibrant colors, strong separation, creamy bokeh.",
+    "parameters": {
+      "brightness": 1.08,
+      "contrast": 1.16,
+      "saturation": 1.15,
+      "hue": 5,
+      "grain": 0.08,
+      "bokeh": 0.99
+    }
+  },
+  {
+    "id": "canon_rf_85mm_f1_2",
+    "name": "Canon RF 85mm f1.2",
+    "description": "Portrait master, magical bokeh, vibrant skin tones.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.13,
+      "saturation": 1.14,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 1.0
+    }
+  },
+  {
+    "id": "nikon_z_58mm_f0_95",
+    "name": "Nikon Z 58mm f0.95",
+    "description": "Noct lens, ultra-fast, dreamy bokeh, strong glow.",
+    "parameters": {
+      "brightness": 1.09,
+      "contrast": 1.07,
+      "saturation": 1.14,
+      "hue": 5,
+      "grain": 0.12,
+      "glow": 0.6,
+      "bokeh": 1.0
+    }
+  },
+  {
+    "id": "nikon_z_85mm_f1_2",
+    "name": "Nikon Z 85mm f1.2",
+    "description": "Modern portrait specialist, creamy backgrounds, vibrant colors.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.13,
+      "saturation": 1.14,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.98
+    }
+  },
+  {
+    "id": "nikon_z_35mm_f1_2",
+    "name": "Nikon Z 35mm f1.2",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.13,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "sigma_contemporary_16mm_f1_4",
+    "name": "Sigma Contemporary 16mm f1.4",
+    "description": "Ultra-wide, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.12,
+      "hue": 2,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "sigma_contemporary_56mm_f1_4",
+    "name": "Sigma Contemporary 56mm f1.4",
+    "description": "Portrait lens, creamy backgrounds, vivid colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.13,
+      "saturation": 1.15,
+      "hue": 5,
+      "grain": 0.09,
+      "bokeh": 0.97
+    }
+  },
+  {
+    "id": "tamron_28_75mm_f2_8",
+    "name": "Tamron 28-75mm f2.8",
+    "description": "Versatile zoom, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.12,
+      "hue": 3,
+      "grain": 0.10
+    }
+  },
+  {
+    "id": "tamron_17_28mm_f2_8",
+    "name": "Tamron 17-28mm f2.8",
+    "description": "Ultra-wide zoom, vibrant colors, crisp detail.",
+    "parameters": {
+      "brightness": 1.02,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 2,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "tokina_firin_20mm_f2",
+    "name": "Tokina Firin 20mm f2",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.16,
+      "saturation": 1.14,
+      "hue": 3,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "zeiss_loxia_50mm_f2",
+    "name": "Zeiss Loxia 50mm f2",
+    "description": "Modern Zeiss, neutral colors, strong micro-contrast.",
+    "parameters": {
+      "brightness": 1.04,
+      "contrast": 1.18,
+      "saturation": 1.11,
+      "hue": 2,
+      "grain": 0.08
+    }
+  },
+  {
+    "id": "zeiss_loxia_21mm_f2_8",
+    "name": "Zeiss Loxia 21mm f2.8",
+    "description": "Wide angle, vibrant colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.14,
+      "hue": 3,
+      "grain": 0.09
+    }
+  },
+  {
+    "id": "zeiss_loxia_85mm_f2_4",
+    "name": "Zeiss Loxia 85mm f2.4",
+    "description": "Portrait lens, creamy backgrounds, vibrant colors.",
+    "parameters": {
+      "brightness": 1.06,
+      "contrast": 1.14,
+      "saturation": 1.13,
+      "hue": 4,
+      "grain": 0.09,
+      "bokeh": 0.95
+    }
+  },
+  {
+    "id": "zeiss_batis_85mm_f1_8",
+    "name": "Zeiss Batis 85mm f1.8",
+    "description": "Portrait master, creamy bokeh, vibrant colors.",
+    "parameters": {
+      "brightness": 1.07,
+      "contrast": 1.14,
+      "saturation": 1.15,
+      "hue": 4,
+      "grain": 0.08,
+      "bokeh": 0.98
+    }
+  },
+  {
+    "id": "zeiss_batis_25mm_f2",
+    "name": "Zeiss Batis 25mm f2",
+    "description": "Wide angle, punchy colors, crisp rendering.",
+    "parameters": {
+      "brightness": 1.03,
+      "contrast": 1.15,
+      "saturation": 1.13,
+      "hue": 2,
+      "grain": 0.09
+    }
+  }
+]
+  ]
+}
