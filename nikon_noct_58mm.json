@@ -1,0 +1,13 @@
+{
+  "id": "nikon_noct_58mm",
+  "name": "Nikon Noct 58mm",
+  "description": "Legendary low-light lens, subtle glow, deep colors.",
+  "parameters": {
+    "brightness": 1.07,
+    "contrast": 1.13,
+    "saturation": 1.08,
+    "hue": -3,
+    "grain": 0.11,
+    "glow": 0.35
+  }
+}
