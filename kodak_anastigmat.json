@@ -1,0 +1,13 @@
+{
+  "id": "kodak_anastigmat",
+  "name": "Kodak Anastigmat",
+  "description": "Faded colors, soft focus, gentle grain for classic Kodak look.",
+  "parameters": {
+    "brightness": 1.06,
+    "contrast": 0.98,
+    "saturation": 0.92,
+    "hue": 6,
+    "grain": 0.17,
+    "glow": 0.4
+  }
+}
