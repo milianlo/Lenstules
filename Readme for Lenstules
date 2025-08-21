@@ -1,0 +1,59 @@
+# Lenstules Lens Styles Module
+
+This folder contains an advanced, independent lens styles module for Android apps (Kotlin).  
+You can use it in your app **without affecting any existing features**.
+
+## How to Use
+
+1. Copy the entire `Lenstules` folder into your project next to your `app` module.
+2. Add this to your `settings.gradle`:
+   ```
+   include(":Lenstules")
+   ```
+3. Add this to your `app/build.gradle`:
+   ```groovy
+   implementation project(":Lenstules")
+   implementation "com.google.code.gson:gson:2.10.1"
+   implementation "androidx.recyclerview:recyclerview:1.3.2"
+   ```
+4. Use the Lens Picker in your Activity/Fragment as described below.
+
+## Features
+
+- Lens style picker UI
+- Parameter tuning for effects
+- Batch processing
+- Sharing/import
+- AI stub (for future)
+- Depth stub (for future)
+- Asset editing stub (for future)
+- Animation stub (for future)
+- Sample assets
+
+## Folder Structure
+
+```
+Lenstules/
+├── README.md
+├── LensProfile.kt
+├── LensPickerFragment.kt
+├── LensStyleAdapter.kt
+├── LensStyle.kt
+└── assets/
+    ├── sample_lens_1.json
+    └── sample_lens_2.json
+```
+
+## Usage Example
+
+```kotlin
+val picker = LensPickerFragment.newInstance { selectedLens ->
+    // Apply the selected lens style
+}
+picker.show(supportFragmentManager, "lensPicker")
+```
+
+## Help
+
+Just copy/paste each file below into your repo.  
+If you need help, ask Copilot for step-by-step instructions!
