@@ -1,0 +1,12 @@
+{
+  "id": "minolta_md_35mm",
+  "name": "Minolta MD 35mm",
+  "description": "Wide angle with classic Minolta palette, crisp edges.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.13,
+    "saturation": 1.10,
+    "hue": 2,
+    "grain": 0.09
+  }
+}
