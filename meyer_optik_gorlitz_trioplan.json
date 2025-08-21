@@ -1,0 +1,14 @@
+{
+  "id": "meyer_optik_gorlitz_trioplan",
+  "name": "Meyer Optik Görlitz Trioplan",
+  "description": "Legendary bubble bokeh, soft color, vintage glow.",
+  "parameters": {
+    "brightness": 1.08,
+    "contrast": 1.02,
+    "saturation": 0.98,
+    "hue": 7,
+    "grain": 0.18,
+    "bokeh": 1.0,
+    "glow": 0.6
+  }
+}
