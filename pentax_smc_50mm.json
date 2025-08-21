@@ -1,0 +1,12 @@
+{
+  "id": "pentax_smc_50mm",
+  "name": "Pentax SMC 50mm",
+  "description": "Super-Multi-Coated colors, punchy contrast, faithful color reproduction.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.13,
+    "saturation": 1.11,
+    "hue": 1,
+    "grain": 0.10
+  }
+}
