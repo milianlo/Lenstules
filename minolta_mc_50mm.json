@@ -1,0 +1,12 @@
+{
+  "id": "minolta_mc_50mm",
+  "name": "Minolta MC 50mm",
+  "description": "Vintage MC coating, deep color rendering, soft transitions.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.11,
+    "saturation": 1.06,
+    "hue": 3,
+    "grain": 0.10
+  }
+}
