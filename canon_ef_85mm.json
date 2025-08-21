@@ -1,0 +1,13 @@
+{
+  "id": "canon_ef_85mm",
+  "name": "Canon EF 85mm",
+  "description": "Modern portrait, strong color, creamy backgrounds.",
+  "parameters": {
+    "brightness": 1.07,
+    "contrast": 1.15,
+    "saturation": 1.13,
+    "hue": 2,
+    "grain": 0.09,
+    "bokeh": 0.92
+  }
+}
