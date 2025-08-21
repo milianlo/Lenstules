@@ -1,0 +1,12 @@
+{
+  "id": "olympus_om_28mm",
+  "name": "Olympus OM 28mm",
+  "description": "Wide angle, punchy colors, clean edge rendition.",
+  "parameters": {
+    "brightness": 1.00,
+    "contrast": 1.14,
+    "saturation": 1.10,
+    "hue": 2,
+    "grain": 0.10
+  }
+}
