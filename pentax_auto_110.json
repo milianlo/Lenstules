@@ -1,0 +1,13 @@
+{
+  "id": "pentax_auto_110",
+  "name": "Pentax Auto 110",
+  "description": "Tiny format, soft focus, pastel colors, unique character.",
+  "parameters": {
+    "brightness": 1.08,
+    "contrast": 0.97,
+    "saturation": 0.95,
+    "hue": 8,
+    "grain": 0.13,
+    "glow": 0.4
+  }
+}
