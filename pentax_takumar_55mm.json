@@ -1,0 +1,13 @@
+{
+  "id": "pentax_takumar_55mm",
+  "name": "Pentax Takumar 55mm",
+  "description": "Warm rendering, classic glow, gentle color shifts from vintage Takumar glass.",
+  "parameters": {
+    "brightness": 1.06,
+    "contrast": 1.09,
+    "saturation": 0.97,
+    "hue": 5,
+    "grain": 0.14,
+    "glow": 0.3
+  }
+}
