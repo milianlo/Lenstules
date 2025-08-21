@@ -1,0 +1,13 @@
+{
+  "id": "helios_44_2",
+  "name": "Helios 44-2",
+  "description": "Swirly bokeh and classic Soviet lens character.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.10,
+    "saturation": 1.07,
+    "hue": -6,
+    "grain": 0.16,
+    "bokeh": 0.95
+  }
+}
