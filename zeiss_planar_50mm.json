@@ -1,0 +1,13 @@
+{
+  "id": "zeiss_planar_50mm",
+  "name": "Zeiss Planar 50mm",
+  "description": "Neutral colors, crisp micro-contrast, and smooth bokeh inspired by Zeiss Planar 50mm.",
+  "parameters": {
+    "brightness": 1.0,
+    "contrast": 1.18,
+    "saturation": 1.08,
+    "hue": 0,
+    "grain": 0.12,
+    "bokeh": 0.5
+  }
+}
