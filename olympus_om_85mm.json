@@ -1,0 +1,13 @@
+{
+  "id": "olympus_om_85mm",
+  "name": "Olympus OM 85mm",
+  "description": "Portrait OM, subtle pastel, smooth background blur.",
+  "parameters": {
+    "brightness": 1.06,
+    "contrast": 1.08,
+    "saturation": 1.11,
+    "hue": 7,
+    "grain": 0.09,
+    "bokeh": 0.85
+  }
+}
