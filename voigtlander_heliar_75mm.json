@@ -1,0 +1,14 @@
+{
+  "id": "voigtlander_heliar_75mm",
+  "name": "Voigtländer Heliar 75mm",
+  "description": "Soft focus, gentle color, dreamy bokeh.",
+  "parameters": {
+    "brightness": 1.07,
+    "contrast": 0.95,
+    "saturation": 1.02,
+    "hue": 8,
+    "grain": 0.14,
+    "glow": 0.5,
+    "bokeh": 0.9
+  }
+}
