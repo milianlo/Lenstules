@@ -1,0 +1,12 @@
+{
+  "id": "canon_fl_55mm",
+  "name": "Canon FL 55mm",
+  "description": "Vintage FL glass, gentle highlights, classic Canon color.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.09,
+    "saturation": 1.06,
+    "hue": 5,
+    "grain": 0.11
+  }
+}
