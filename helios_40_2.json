@@ -1,0 +1,14 @@
+{
+  "id": "helios_40_2",
+  "name": "Helios 40-2",
+  "description": "Vintage portrait: creamy background, strong glow, pastel rendering.",
+  "parameters": {
+    "brightness": 1.06,
+    "contrast": 1.08,
+    "saturation": 1.12,
+    "hue": -2,
+    "grain": 0.15,
+    "glow": 0.4,
+    "bokeh": 0.98
+  }
+}
