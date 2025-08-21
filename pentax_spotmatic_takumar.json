@@ -1,0 +1,13 @@
+{
+  "id": "pentax_spotmatic_takumar",
+  "name": "Pentax Spotmatic Takumar",
+  "description": "Vintage SLR, gentle pastel color, soft focus.",
+  "parameters": {
+    "brightness": 1.07,
+    "contrast": 1.01,
+    "saturation": 0.98,
+    "hue": 6,
+    "grain": 0.15,
+    "glow": 0.3
+  }
+}
