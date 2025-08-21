@@ -1,0 +1,13 @@
+{
+  "id": "fujinon_xf_56mm",
+  "name": "Fujinon XF 56mm",
+  "description": "Modern classic, smooth Fuji colors, sharp, gentle backgrounds.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.15,
+    "saturation": 1.08,
+    "hue": 3,
+    "grain": 0.10,
+    "bokeh": 0.85
+  }
+}
