@@ -1,0 +1,12 @@
+{
+  "id": "fujinon_ebc_55mm",
+  "name": "Fujinon EBC 55mm",
+  "description": "Classic Fujinon color, punchy contrast, subtle vintage grain.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.14,
+    "saturation": 1.12,
+    "hue": 3,
+    "grain": 0.11
+  }
+}
