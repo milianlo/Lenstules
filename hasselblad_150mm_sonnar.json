@@ -1,0 +1,13 @@
+{
+  "id": "hasselblad_150mm_sonnar",
+  "name": "Hasselblad 150mm Sonnar",
+  "description": "Telephoto portrait king: smooth skin tones, gentle background blur.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.12,
+    "saturation": 1.13,
+    "hue": 4,
+    "grain": 0.10,
+    "bokeh": 0.75
+  }
+}
