@@ -1,0 +1,13 @@
+{
+  "id": "rolleiflex_2_8f",
+  "name": "Rolleiflex 2.8F",
+  "description": "Medium format charm, creamy bokeh, classic TLR rendering.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.10,
+    "saturation": 1.09,
+    "hue": 2,
+    "grain": 0.12,
+    "bokeh": 0.88
+  }
+}
