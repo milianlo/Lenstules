@@ -1,0 +1,14 @@
+{
+  "id": "leica_noctilux_50mm",
+  "name": "Leica Noctilux 50mm",
+  "description": "Dreamy wide-open bokeh, magical glow, and Leica color signature.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.12,
+    "saturation": 1.06,
+    "hue": 4,
+    "grain": 0.10,
+    "bokeh": 1.0,
+    "glow": 0.3
+  }
+}
