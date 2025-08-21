@@ -1,0 +1,13 @@
+{
+  "id": "leica_thambar_90mm",
+  "name": "Leica Thambar 90mm",
+  "description": "Legendary soft focus: dreamy glow and romantic haze.",
+  "parameters": {
+    "brightness": 1.07,
+    "contrast": 0.95,
+    "saturation": 1.02,
+    "hue": 8,
+    "grain": 0.13,
+    "glow": 0.8
+  }
+}
