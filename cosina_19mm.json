@@ -1,0 +1,13 @@
+{
+  "id": "cosina_19mm",
+  "name": "Cosina 19mm",
+  "description": "Ultra-wide angle, classic film colors, subtle vignette.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.11,
+    "saturation": 1.08,
+    "hue": 2,
+    "grain": 0.13,
+    "vignette": 0.23
+  }
+}
