@@ -1,0 +1,12 @@
+{
+  "id": "leica_elmarit_28mm",
+  "name": "Leica Elmarit 28mm",
+  "description": "Wide angle documentary: cool rendering, high clarity, classic Leica edge.",
+  "parameters": {
+    "brightness": 0.99,
+    "contrast": 1.19,
+    "saturation": 1.05,
+    "hue": -4,
+    "grain": 0.10
+  }
+}
