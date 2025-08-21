@@ -1,0 +1,13 @@
+{
+  "id": "zenit_helios_44m",
+  "name": "Zenit Helios 44M",
+  "description": "Swirly bokeh, bold color, classic Soviet rendering.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.13,
+    "saturation": 1.10,
+    "hue": -4,
+    "grain": 0.15,
+    "bokeh": 0.95
+  }
+}
