@@ -1,0 +1,12 @@
+{
+  "id": "hasselblad_swc",
+  "name": "Hasselblad SWC",
+  "description": "Super wide classic: vibrant colors, strong edge contrast.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.20,
+    "saturation": 1.10,
+    "hue": 3,
+    "grain": 0.13
+  }
+}
