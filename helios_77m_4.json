@@ -1,0 +1,13 @@
+{
+  "id": "helios_77m_4",
+  "name": "Helios 77M-4",
+  "description": "Rare Soviet lens, swirling bokeh, slight magenta shift, soft rendering.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.12,
+    "saturation": 1.09,
+    "hue": 7,
+    "grain": 0.14,
+    "bokeh": 0.9
+  }
+}
