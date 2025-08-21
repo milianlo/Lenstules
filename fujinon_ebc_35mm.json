@@ -1,0 +1,12 @@
+{
+  "id": "fujinon_ebc_35mm",
+  "name": "Fujinon EBC 35mm",
+  "description": "Classic EBC coating, vivid colors, dynamic contrast.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.17,
+    "saturation": 1.12,
+    "hue": 2,
+    "grain": 0.09
+  }
+}
