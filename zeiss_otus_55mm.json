@@ -1,0 +1,12 @@
+{
+  "id": "zeiss_otus_55mm",
+  "name": "Zeiss Otus 55mm",
+  "description": "Modern Zeiss Otus look: ultra-sharp, natural colors, low distortion.",
+  "parameters": {
+    "brightness": 1.0,
+    "contrast": 1.23,
+    "saturation": 1.07,
+    "hue": 0,
+    "grain": 0.08
+  }
+}
