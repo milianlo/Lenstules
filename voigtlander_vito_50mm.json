@@ -1,0 +1,12 @@
+{
+  "id": "voigtlander_vito_50mm",
+  "name": "Voigtländer Vito 50mm",
+  "description": "Gentle color, moderate grain, classic Voigtländer rendering.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.08,
+    "saturation": 1.09,
+    "hue": 2,
+    "grain": 0.13
+  }
+}
