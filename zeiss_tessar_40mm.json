@@ -1,0 +1,12 @@
+{
+  "id": "zeiss_tessar_40mm",
+  "name": "Zeiss Tessar 40mm",
+  "description": "Classic Tessar rendering: moderate contrast, gentle colors, subtle grain.",
+  "parameters": {
+    "brightness": 1.00,
+    "contrast": 1.10,
+    "saturation": 1.05,
+    "hue": 0,
+    "grain": 0.15
+  }
+}
