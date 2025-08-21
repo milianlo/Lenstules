@@ -1,0 +1,12 @@
+{
+  "id": "hasselblad_xpan",
+  "name": "Hasselblad XPan",
+  "description": "Panoramic legend: cool tones, cinematic aspect ratio, razor sharp.",
+  "parameters": {
+    "brightness": 0.98,
+    "contrast": 1.15,
+    "saturation": 1.04,
+    "hue": -6,
+    "grain": 0.12
+  }
+}
