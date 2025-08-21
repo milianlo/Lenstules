@@ -1,0 +1,12 @@
+{
+  "id": "zeiss_distagon_28mm",
+  "name": "Zeiss Distagon 28mm",
+  "description": "Punchy colors, great edge sharpness, famous Zeiss clarity.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.20,
+    "saturation": 1.14,
+    "hue": 2,
+    "grain": 0.13
+  }
+}
