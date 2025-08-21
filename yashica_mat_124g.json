@@ -1,0 +1,13 @@
+{
+  "id": "yashica_mat_124g",
+  "name": "Yashica Mat 124G",
+  "description": "Medium format TLR, balanced color, moderate grain.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.13,
+    "saturation": 1.08,
+    "hue": 3,
+    "grain": 0.14,
+    "bokeh": 0.7
+  }
+}
