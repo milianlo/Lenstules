@@ -1,0 +1,12 @@
+{
+  "id": "zeiss_jena_tessar_50mm",
+  "name": "Zeiss Jena Tessar 50mm",
+  "description": "East German classic, gentle contrast, pastel colors.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.09,
+    "saturation": 1.08,
+    "hue": 1,
+    "grain": 0.13
+  }
+}
