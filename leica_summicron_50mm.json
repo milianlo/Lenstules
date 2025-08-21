@@ -1,0 +1,12 @@
+{
+  "id": "leica_summicron_50mm",
+  "name": "Leica Summicron 50mm",
+  "description": "Legendary Leica glass: smooth transitions, neutral colors, natural rendering.",
+  "parameters": {
+    "brightness": 1.0,
+    "contrast": 1.18,
+    "saturation": 1.09,
+    "hue": 0,
+    "grain": 0.11
+  }
+}
