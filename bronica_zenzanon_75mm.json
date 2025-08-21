@@ -1,0 +1,12 @@
+{
+  "id": "bronica_zenzanon_75mm",
+  "name": "Bronica Zenzanon 75mm",
+  "description": "Medium format, punchy contrast, classic Bronica color.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.14,
+    "saturation": 1.12,
+    "hue": 2,
+    "grain": 0.12
+  }
+}
