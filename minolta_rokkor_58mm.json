@@ -1,0 +1,13 @@
+{
+  "id": "minolta_rokkor_58mm",
+  "name": "Minolta Rokkor 58mm",
+  "description": "Classic Minolta color, creamy bokeh, gentle highlight rolloff.",
+  "parameters": {
+    "brightness": 1.08,
+    "contrast": 1.09,
+    "saturation": 1.02,
+    "hue": 5,
+    "grain": 0.13,
+    "bokeh": 0.8
+  }
+}
