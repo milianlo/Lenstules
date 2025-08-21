@@ -1,0 +1,12 @@
+{
+  "id": "canon_ltm_35mm",
+  "name": "Canon LTM 35mm",
+  "description": "Classic rangefinder, crisp colors, strong micro-contrast.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.14,
+    "saturation": 1.09,
+    "hue": 3,
+    "grain": 0.08
+  }
+}
