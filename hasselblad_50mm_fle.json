@@ -1,0 +1,12 @@
+{
+  "id": "hasselblad_50mm_fle",
+  "name": "Hasselblad 50mm FLE",
+  "description": "Wide format, subtle color shift, great edge performance.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.14,
+    "saturation": 1.09,
+    "hue": 5,
+    "grain": 0.09
+  }
+}
