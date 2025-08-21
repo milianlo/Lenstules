@@ -1,0 +1,12 @@
+{
+  "id": "fujinon_23mm",
+  "name": "Fujinon 23mm",
+  "description": "Street classic, Fuji color, moderate contrast, urban edge.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.19,
+    "saturation": 1.13,
+    "hue": 1,
+    "grain": 0.09
+  }
+}
