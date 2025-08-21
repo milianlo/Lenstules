@@ -1,0 +1,12 @@
+{
+  "id": "leica_m3_summicron",
+  "name": "Leica M3 Summicron",
+  "description": "Historic Leica M3, balanced color, smooth transitions, moderate grain.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.17,
+    "saturation": 1.08,
+    "hue": 0,
+    "grain": 0.11
+  }
+}
