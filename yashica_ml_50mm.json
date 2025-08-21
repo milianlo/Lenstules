@@ -1,0 +1,13 @@
+{
+  "id": "yashica_ml_50mm",
+  "name": "Yashica ML 50mm",
+  "description": "Classic ML glass, warm tones, soft background.",
+  "parameters": {
+    "brightness": 1.07,
+    "contrast": 1.09,
+    "saturation": 1.10,
+    "hue": 4,
+    "grain": 0.09,
+    "bokeh": 0.8
+  }
+}
