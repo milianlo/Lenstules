@@ -1,0 +1,12 @@
+{
+  "id": "zeiss_biogon_35mm",
+  "name": "Zeiss Biogon 35mm",
+  "description": "Wide angle with high resolution, vibrant colors and sharp corners.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.16,
+    "saturation": 1.12,
+    "hue": 3,
+    "grain": 0.09
+  }
+}
