@@ -1,0 +1,12 @@
+{
+  "id": "nikon_f2_nikkor_35mm",
+  "name": "Nikon F2 Nikkor 35mm",
+  "description": "Classic documentary combo, punchy color, bold contrast.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.15,
+    "saturation": 1.11,
+    "hue": 2,
+    "grain": 0.13
+  }
+}
