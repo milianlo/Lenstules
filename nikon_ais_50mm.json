@@ -1,0 +1,12 @@
+{
+  "id": "nikon_ais_50mm",
+  "name": "Nikon AiS 50mm",
+  "description": "Crisp Nikon colors, punchy contrast, vintage rendering.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.17,
+    "saturation": 1.13,
+    "hue": 0,
+    "grain": 0.12
+  }
+}
