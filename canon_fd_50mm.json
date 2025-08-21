@@ -1,0 +1,12 @@
+{
+  "id": "canon_fd_50mm",
+  "name": "Canon FD 50mm",
+  "description": "Legendary FD rendering, warm tones, beautiful midtones.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.12,
+    "saturation": 1.08,
+    "hue": 7,
+    "grain": 0.12
+  }
+}
