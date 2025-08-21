@@ -1,0 +1,13 @@
+{
+  "id": "hasselblad_500cm_planar",
+  "name": "Hasselblad 500CM Planar",
+  "description": "Studio legend, creamy bokeh, rich midtones, gentle pastel colors.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.12,
+    "saturation": 1.12,
+    "hue": 3,
+    "grain": 0.13,
+    "bokeh": 0.9
+  }
+}
