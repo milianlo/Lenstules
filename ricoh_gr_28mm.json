@@ -1,0 +1,12 @@
+{
+  "id": "ricoh_gr_28mm",
+  "name": "Ricoh GR 28mm",
+  "description": "Street legend, crisp detail, neutral colors, strong contrast.",
+  "parameters": {
+    "brightness": 1.00,
+    "contrast": 1.16,
+    "saturation": 1.08,
+    "hue": 0,
+    "grain": 0.12
+  }
+}
