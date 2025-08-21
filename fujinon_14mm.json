@@ -1,0 +1,12 @@
+{
+  "id": "fujinon_14mm",
+  "name": "Fujinon 14mm",
+  "description": "Ultra-wide, dynamic colors, strong edge definition.",
+  "parameters": {
+    "brightness": 1.00,
+    "contrast": 1.16,
+    "saturation": 1.10,
+    "hue": 2,
+    "grain": 0.11
+  }
+}
