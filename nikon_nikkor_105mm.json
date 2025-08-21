@@ -1,0 +1,13 @@
+{
+  "id": "nikon_nikkor_105mm",
+  "name": "Nikon Nikkor 105mm",
+  "description": "Portrait classic, gentle skin tones, creamy backgrounds.",
+  "parameters": {
+    "brightness": 1.05,
+    "contrast": 1.10,
+    "saturation": 1.09,
+    "hue": 6,
+    "grain": 0.10,
+    "bokeh": 0.9
+  }
+}
