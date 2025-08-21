@@ -1,0 +1,13 @@
+{
+  "id": "leica_apo_telyt_135mm",
+  "name": "Leica APO-Telyt 135mm",
+  "description": "Telephoto precision: ultra-sharp detail, low distortion, creamy backgrounds.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.20,
+    "saturation": 1.07,
+    "hue": 2,
+    "grain": 0.09,
+    "bokeh": 0.9
+  }
+}
