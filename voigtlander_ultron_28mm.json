@@ -1,0 +1,12 @@
+{
+  "id": "voigtlander_ultron_28mm",
+  "name": "Voigtländer Ultron 28mm",
+  "description": "Wide angle, punchy contrast, modern classic.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.19,
+    "saturation": 1.12,
+    "hue": 4,
+    "grain": 0.10
+  }
+}
