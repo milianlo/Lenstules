@@ -1,0 +1,14 @@
+{
+  "id": "leitz_elmar_90mm",
+  "name": "Leitz Elmar 90mm",
+  "description": "Vintage Leica telephoto, subtle glow, dramatic background separation.",
+  "parameters": {
+    "brightness": 1.06,
+    "contrast": 1.07,
+    "saturation": 1.05,
+    "hue": 2,
+    "grain": 0.11,
+    "glow": 0.4,
+    "bokeh": 0.92
+  }
+}
