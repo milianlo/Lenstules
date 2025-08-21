@@ -1,0 +1,13 @@
+{
+  "id": "canon_135mm_sf",
+  "name": "Canon 135mm Soft Focus",
+  "description": "Classic soft-focus effect, dreamy highlights, subtle warmth.",
+  "parameters": {
+    "brightness": 1.08,
+    "contrast": 0.96,
+    "saturation": 1.04,
+    "hue": 10,
+    "grain": 0.10,
+    "glow": 0.6
+  }
+}
