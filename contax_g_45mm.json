@@ -1,0 +1,12 @@
+{
+  "id": "contax_g_45mm",
+  "name": "Contax G 45mm",
+  "description": "Legendary sharpness, neutral colors, subtle contrast.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.15,
+    "saturation": 1.10,
+    "hue": 0,
+    "grain": 0.10
+  }
+}
