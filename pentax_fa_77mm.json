@@ -1,0 +1,13 @@
+{
+  "id": "pentax_fa_77mm",
+  "name": "Pentax FA 77mm",
+  "description": "Exceptional bokeh, rich skin tones, portrait legend.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.07,
+    "saturation": 1.13,
+    "hue": 4,
+    "grain": 0.09,
+    "bokeh": 0.92
+  }
+}
