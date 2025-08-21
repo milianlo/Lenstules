@@ -1,0 +1,13 @@
+{
+  "id": "pentax_k_135mm",
+  "name": "Pentax K 135mm",
+  "description": "Strong telephoto effect, classic color, creamy bokeh.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.15,
+    "saturation": 1.06,
+    "hue": 3,
+    "grain": 0.12,
+    "bokeh": 0.8
+  }
+}
