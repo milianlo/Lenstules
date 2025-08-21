@@ -1,0 +1,13 @@
+{
+  "id": "hasselblad_80mm_cf",
+  "name": "Hasselblad 80mm CF",
+  "description": "Medium format classic: creamy bokeh, rich midtones, studio portrait legend.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.11,
+    "saturation": 1.16,
+    "hue": 2,
+    "grain": 0.11,
+    "bokeh": 0.85
+  }
+}
