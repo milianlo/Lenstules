@@ -1,0 +1,12 @@
+{
+  "id": "voigtlander_color_skopar_35mm",
+  "name": "Voigtländer Color-Skopar 35mm",
+  "description": "Vibrant color, compact lens, moderate grain.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.12,
+    "saturation": 1.14,
+    "hue": 5,
+    "grain": 0.13
+  }
+}
