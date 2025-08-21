@@ -1,0 +1,13 @@
+{
+  "id": "fujinon_90mm",
+  "name": "Fujinon 90mm",
+  "description": "Telephoto, cool tones, punchy Fuji color, gentle bokeh.",
+  "parameters": {
+    "brightness": 1.04,
+    "contrast": 1.13,
+    "saturation": 1.05,
+    "hue": -4,
+    "grain": 0.07,
+    "bokeh": 0.8
+  }
+}
