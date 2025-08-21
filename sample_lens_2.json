@@ -1,0 +1,9 @@
+{
+    "id": "bw_soft",
+    "name": "Black & White Soft",
+    "description": "Soft monochrome effect.",
+    "parameters": {
+        "saturation": 0.0,
+        "contrast": 0.9
+    }
+}
