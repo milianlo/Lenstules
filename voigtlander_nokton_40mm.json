@@ -1,0 +1,12 @@
+{
+  "id": "voigtlander_nokton_40mm",
+  "name": "Voigtländer Nokton 40mm",
+  "description": "Punchy colors, high contrast, unique Nokton rendering.",
+  "parameters": {
+    "brightness": 1.00,
+    "contrast": 1.21,
+    "saturation": 1.17,
+    "hue": -1,
+    "grain": 0.15
+  }
+}
