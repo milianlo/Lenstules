@@ -1,0 +1,12 @@
+{
+  "id": "canon_ae1_fd_50mm",
+  "name": "Canon AE-1 FD 50mm",
+  "description": "Legendary SLR, warm tones, classic Canon rendering.",
+  "parameters": {
+    "brightness": 1.03,
+    "contrast": 1.10,
+    "saturation": 1.09,
+    "hue": 5,
+    "grain": 0.12
+  }
+}
