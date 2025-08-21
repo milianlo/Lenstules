@@ -1,0 +1,12 @@
+{
+  "id": "schneider_kreuznach_xenon",
+  "name": "Schneider Kreuznach Xenon",
+  "description": "Classic German glass, vibrant colors, subtle vintage grain.",
+  "parameters": {
+    "brightness": 1.02,
+    "contrast": 1.15,
+    "saturation": 1.13,
+    "hue": 4,
+    "grain": 0.13
+  }
+}
