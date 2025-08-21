@@ -1,0 +1,12 @@
+{
+  "id": "leica_summilux_35mm",
+  "name": "Leica Summilux 35mm",
+  "description": "Classic Leica street lens: subtle warmth, gentle pastel colors, crisp detail.",
+  "parameters": {
+    "brightness": 1.01,
+    "contrast": 1.15,
+    "saturation": 1.10,
+    "hue": 6,
+    "grain": 0.09
+  }
+}
