@@ -1,0 +1,9 @@
+{
+    "id": "vivid",
+    "name": "Vivid Color",
+    "description": "Boosts colors for a vibrant look.",
+    "parameters": {
+        "saturation": 1.5,
+        "contrast": 1.2
+    }
+}
